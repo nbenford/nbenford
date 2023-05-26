@@ -2,12 +2,19 @@
 
 ### Hi, I'm Noel.
 
-I'm a new fullstack developer. I've been thoroughly enjoying myself working on some fun projects for clients. Please check out my videos to see what I've been working on!
+I'm a fullstack developer. I've been thoroughly enjoying myself working on some fun projects for clients. Please check out my videos to see what I've been working on!
 
 - 🎓The Ohio State University - BS Aviation, Summa Cum Laude, 2020
 - 🎓FullStack Academy, 2022
-- :mailbox: You can reach me with the links below
+-  :small_airplane: Pilot
+-  :studio_microphone: Audio engineer
+-  :hiking_boot: Hiking :bear: Nature
 
+<br/>
+
+:mailbox: Reach me here
+
+<br/>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noel.benford@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelbenford/)
@@ -17,11 +24,17 @@ I'm a new fullstack developer. I've been thoroughly enjoying myself working on s
 ### The South Dayton Democratic Club
 [![The South Dayton Democratic Club](https://img.youtube.com/vi/7484H1VmOJE/0.jpg)](https://www.youtube.com/watch?v=7484H1VmOJE)
 
+- Next.js, Full Calendar, MUI, Tailwind, SWR, infinite scroll, reCaptcha, PWA, PM2, NGINX, Google Maps, dayjs
+<br/>
+
 
 ### Linkuistix (with my FullStack captone colleagues)
 [![Linkuistix](https://img.youtube.com/vi/GvZ8XhF3Jz4/0.jpg)](https://www.youtube.com/watch?v=GvZ8XhF3Jz4)
 
-##### Some of the technologies I have worked with
+- React, web workers, TensorFlow, PixiJS, Firebase
+<br/>
+
+#### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -34,6 +47,8 @@ I'm a new fullstack developer. I've been thoroughly enjoying myself working on s
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+<br/>
 
 [![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbenford&count_private=true&show_icons=true&theme=radical)](https://github.com/nbenford/github-readme-stats)
 
