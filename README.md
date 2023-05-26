@@ -21,17 +21,34 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 
 ## Projects
 
+### WarpedWingCMS
+
+[![WarpedWingCMS](https://img.youtube.com/vi/QfwaFpXtrMw/0.jpg)](https://www.youtube.com/watch?v=QfwaFpXtrMw)
+<br/>
+
+:tv: [YouTube Video](https://www.youtube.com/watch?v=QfwaFpXtrMw)
+
+- React, Redux, Axios, Express, Nodemailer, React-Image-Crop, Sharp, JWT, Bcrypt, UUID, Markdown to HTML, PostgreSQL, Amazon S3, AwS Lightsail, PM2, NGINX, dayjs, MUI, Tailwind
+<br/>
+
 ### The South Dayton Democratic Club
 [southdaytondems.org](https://southdaytondems.org)
 <br/>
 
 [![The South Dayton Democratic Club](https://img.youtube.com/vi/7484H1VmOJE/0.jpg)](https://www.youtube.com/watch?v=7484H1VmOJE)
-
-- Next.js, SWR, infinite scroll, reCaptcha, Formik, Yup, Markdown to HTML, PostgreSQL, PWA, PM2, NGINX, Google Maps, dayjs, Full Calendar, MUI, Tailwind
 <br/>
 
+[:tv: YouTube Video](https://www.youtube.com/watch?v=7484H1VmOJE)
 
+- Next.js, SWR, infinite scroll, reCaptcha, Formik, Yup, Markdown to HTML, PostgreSQL, Amazon S3, AWS Lightsail, PWA, PM2, NGINX, Google Maps, dayjs, Full Calendar, MUI, Tailwind
+<br/>
 
+### A Raven Calls
+[aravencalls.com](https://aravencalls.com)
+<br/>
+
+- React, Redux, Axios, Express, Nodemailer, Framer Motion, JWT, Bcrypt, Markdown to HTML, React-scroll-parallax, Sharp, PostgreSQL, Formik, Yup, Amazon S3, Heroku, MUI
+<br/>
 
 
 ### Linkuistix (with my FullStack captone colleagues)
@@ -39,6 +56,9 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 <br/>
 
 [![Linkuistix](https://img.youtube.com/vi/GvZ8XhF3Jz4/0.jpg)](https://www.youtube.com/watch?v=GvZ8XhF3Jz4)
+<br/>
+
+[:tv: YouTube Video](https://www.youtube.com/watch?v=GvZ8XhF3Jz4)
 
 - React, web workers, TensorFlow, PixiJS, Firebase
 <br/>
