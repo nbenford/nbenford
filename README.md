@@ -6,9 +6,10 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 
 - 🎓The Ohio State University - BS Aviation, Summa Cum Laude, 2020
 - 🎓FullStack Academy, 2022
--  :small_airplane: Pilot
 -  :studio_microphone: Audio engineer
+-  :notes: Music Lover
 -  :hiking_boot: Hiking :bear: Nature
+-  :small_airplane: Pilot
 
 <br/>
 
