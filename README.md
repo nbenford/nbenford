@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Noel:
+### Hi, I'm Noel.
 
 I'm a new fullstack developer. I've been thoroughly enjoying myself working on some fun projects for clients. Please check out my videos to see what I've been working on!
 
@@ -12,13 +12,13 @@ I'm a new fullstack developer. I've been thoroughly enjoying myself working on s
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noel.benford@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelbenford/)
 
-### Projects
+## Projects
 
-## The South Dayton Democratic Club
+### The South Dayton Democratic Club
 [![The South Dayton Democratic Club](https://img.youtube.com/vi/7484H1VmOJE/0.jpg)](https://www.youtube.com/watch?v=7484H1VmOJE)
 
 
-## Linkuistix (with my FullStack captone colleagues)
+### Linkuistix (with my FullStack captone colleagues)
 [![Linkuistix](https://img.youtube.com/vi/GvZ8XhF3Jz4/0.jpg)](https://www.youtube.com/watch?v=GvZ8XhF3Jz4)
 
 ##### Some of the technologies I have worked with
