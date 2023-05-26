@@ -80,8 +80,8 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 
 <br/>
 
-[![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbenford&count_private=true&show_icons=true&theme=radical)](https://github.com/nbenford/github-readme-stats)
+[![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbenford&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbenford&layout=donutd&theme=radical)](https://github.com/nbenford/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbenford&layout=donutd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [NoelBenford](https://github.com/nbenford)
