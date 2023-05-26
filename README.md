@@ -22,13 +22,22 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 ## Projects
 
 ### The South Dayton Democratic Club
+[southdaytondems.org](https://southdaytondems.org)
+<br/>
+
 [![The South Dayton Democratic Club](https://img.youtube.com/vi/7484H1VmOJE/0.jpg)](https://www.youtube.com/watch?v=7484H1VmOJE)
 
-- Next.js, Full Calendar, MUI, Tailwind, SWR, infinite scroll, reCaptcha, PWA, PM2, NGINX, Google Maps, dayjs
+- Next.js, SWR, infinite scroll, reCaptcha, Formik, Yup, Markdown to HTML, PostgreSQL, PWA, PM2, NGINX, Google Maps, dayjs, Full Calendar, MUI, Tailwind
 <br/>
 
 
+
+
+
 ### Linkuistix (with my FullStack captone colleagues)
+[linkuistix.com](https://linkuistix.com/)
+<br/>
+
 [![Linkuistix](https://img.youtube.com/vi/GvZ8XhF3Jz4/0.jpg)](https://www.youtube.com/watch?v=GvZ8XhF3Jz4)
 
 - React, web workers, TensorFlow, PixiJS, Firebase
