@@ -35,6 +35,8 @@ I'm a new fullstack developer. I've been thoroughly enjoying myself working on s
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-https://github-readme-activity-graph.cyclic.app/graph?username={noelbenford}
+[![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbenford&count_private=true&show_icons=true&theme=radical)](https://github.com/nbenford/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbenford&layout=donutd&theme=radical)](https://github.com/nbenford/github-readme-stats)
 
 ⭐️ From [NoelBenford](https://github.com/nbenford)
