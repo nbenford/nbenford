@@ -29,7 +29,7 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 
 :tv: [YouTube Video](https://www.youtube.com/watch?v=QfwaFpXtrMw)
 
-- React, Redux, Axios, Express, Nodemailer, React-Image-Crop, Sharp, JWT, Bcrypt, UUID, Markdown to HTML, PostgreSQL, Amazon S3, AwS Lightsail, PM2, NGINX, dayjs, MUI, Tailwind
+- React, Redux, Axios, Express, Nodemailer, React-Image-Crop, Sharp, JWT, Bcrypt, UUID, Markdown to HTML, PostgreSQL, Amazon S3, AWS Lightsail, PM2, NGINX, dayjs, MUI, Tailwind
 <br/>
 
 ### The South Dayton Democratic Club
