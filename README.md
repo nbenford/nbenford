@@ -41,7 +41,7 @@ I'm a fullstack developer. I've been thoroughly enjoying myself working on some 
 
 [:tv: YouTube Video](https://www.youtube.com/watch?v=7484H1VmOJE)
 
-- Next.js, SWR, infinite scroll, reCaptcha, Formik, Yup, Markdown to HTML, PostgreSQL, Amazon S3, AWS Lightsail, PWA, PM2, NGINX, Google Maps, dayjs, Full Calendar, MUI, Tailwind
+- Next.js, Typescript, SWR, infinite scroll, reCaptcha, Formik, Yup, Markdown to HTML, PostgreSQL, Amazon S3, AWS Lightsail, PWA, PM2, NGINX, Google Maps, dayjs, Full Calendar, MUI, Tailwind
 <br/>
 
 ### A Raven Calls
