@@ -2,7 +2,7 @@
 
 ### Hi, I'm Noel.
 
-I'm a fullstack developer. I've been thoroughly enjoying myself working on some fun projects for clients. Please check out my videos to see what I've been working on!
+I'm a fullstack developer. Please check out my videos to see what I've been working on!
 
 - 🎓The Ohio State University - BS Aviation, Summa Cum Laude, 2020
 - 🎓FullStack Academy, 2022
