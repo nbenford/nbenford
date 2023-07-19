@@ -22,6 +22,26 @@ I'm a fullstack developer. Please check out my projects to see what I've been wo
 
 ## Projects
 
+### discogs-record-shelf
+
+Demo: [https://bit.ly/discogsRecordShelf](https://bit.ly/discogsRecordShelf)
+<br/>
+Code: [https://github.com/nbenford/discogs-record-shelf](https://github.com/nbenford/discogs-record-shelf)
+
+<b>Demo Discogs Login:</b>
+<br/>
+Username: ```discogsRecordShelf```
+<br/>
+Password: ```p$8Y2Mdq22Tm```
+<br/>
+<br/>
+[![Discogs Record Shelf](https://img.youtube.com/vi/XywGNqHNGgM/0.jpg)](https://www.youtube.com/watch?v=XywGNqHNGgM)
+
+:tv: [YouTube Video](https://youtu.be/XywGNqHNGgM)
+- Next.js, Typescript, Discogs API, SWR, OpenAI, PostgreSQL, CSS, Mantine UI
+<br/>
+
+
 ### WarpedWingCMS
 
 [![WarpedWingCMS](https://img.youtube.com/vi/QfwaFpXtrMw/0.jpg)](https://www.youtube.com/watch?v=QfwaFpXtrMw)
