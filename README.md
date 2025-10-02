@@ -4,13 +4,6 @@
 
 I'm a fullstack developer. Please check out my projects to see what I've been working on!
 
-- 🎓The Ohio State University - BS Aviation, Summa Cum Laude, 2020
-- 🎓FullStack Academy, 2022
--  :studio_microphone: Audio engineer
--  :notes: Music Lover
--  :hiking_boot: Hiking :bear: Nature
--  :small_airplane: Pilot
-
 <br/>
 
 :mailbox: Reach me here
