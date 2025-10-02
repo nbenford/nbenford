@@ -13,24 +13,19 @@ Reach me here:
 
 ### PhotoRec Cleaner
 
-![PhotoRec Cleaner](https://i.imgur.com/NaiEfDp.png)
+[![PhotoRec Cleaner](https://i.imgur.com/NaiEfDp.png)](https://github.com/nbenford/photorec-cleaner)
 
 A command-line utility (Python) to intelligently organize files recovered by [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec). It actively monitors the PhotoRec output directory, deletes unwanted file types from completed `recup_dir.X` folders in real-time.
 
-
-### discogs-record-shelf
-
-Demo: [https://bit.ly/discogsRecordShelf](https://bit.ly/discogsRecordShelf)
+Code: [https://github.com/nbenford/photorec-cleaner](https://github.com/nbenford/photorec-cleaner)
 <br/>
+<br/>
+
+### Discogs Record Shelf
+
 Code: [https://github.com/nbenford/discogs-record-shelf](https://github.com/nbenford/discogs-record-shelf)
 
-<b>Demo Discogs Login:</b>
-<br/>
-Username: ```discogsRecordShelf```
-<br/>
-Password: ```p$8Y2Mdq22Tm```
-<br/>
-<br/>
+
 [![Discogs Record Shelf](https://img.youtube.com/vi/XywGNqHNGgM/0.jpg)](https://www.youtube.com/watch?v=XywGNqHNGgM)
 
 :tv: [YouTube Video](https://youtu.be/XywGNqHNGgM)
