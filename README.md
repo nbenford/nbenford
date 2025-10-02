@@ -2,8 +2,6 @@
 
 ### Hi, I'm Noel.
 
-I'm a fullstack developer. Please check out my projects to see what I've been working on!
-
 <br/>
 
 :mailbox: Reach me here
